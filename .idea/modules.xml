@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/vedstat.iml" filepath="$PROJECT_DIR$/vedstat.iml" />
-      <module fileurl="file://$PROJECT_DIR$/vedstat-grailsPlugins.iml" filepath="$PROJECT_DIR$/vedstat-grailsPlugins.iml" />
     </modules>
   </component>
 </project>
